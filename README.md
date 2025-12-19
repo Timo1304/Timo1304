@@ -20,7 +20,7 @@
     <td valign="top" width="50%">
       <h3>⚡ My Focus</h3>
       <ul>
-        <li>🌍 <b>Project:</b> SteadyLoop (Lead Engineer on a privacy-first wellness architecture).</li>
+        <li>🌍 <b>Project:</b> SteadyLoop (Solo Engineer on a privacy-first wellness architecture).</li>
         <li>🖥️ <b>Current Role:</b> Technical Support Specialist (Tier 2/3) focused on code-level troubleshooting.</li>
         <li>🔐 <b>Tools:</b> Expertise in API debugging, SQL optimization, and Next.js / React ecosystems.</li>
       </ul>
