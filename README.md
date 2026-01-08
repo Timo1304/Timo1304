@@ -1,14 +1,15 @@
-<h1 align="center">🕵️ Engineering Forensics: The Code Debugger</h1>
+<h1 align="center"> Engineering Forensics </br> 
+<i> Debugging production systems where theory meets reality </i> </h1>
 
 <h2 align="center">Hi there, I'm Timothy Finomo! 👋🏾</h2>
 
 <h3 align="center">
-  Technical Support Specialist (Tier 2/3) & Lead Engineer
+   Tier 2/3 Support Engineer . Lead Product Engineer (SteadyLoop)
 </h3>
 
 <p align="center">
-  I specialize in <b>Engineering Forensics</b> - bridging the gap between customer success and development. <br>
-  I leverage my full-stack knowledge to debug code, APIs, and SQL queries to resolve Tier 3 issues directly.
+  I sit at the intersection of customer reality and system architecture.  
+  I debug APIs, SQL, and frontend systems where real users feel the failure.
 </p>
 
 ---
@@ -29,7 +30,7 @@
       <h3>👨‍💻 Experience Highlights</h3>
       <ul>
         <li><b>Key Skill:</b> Debugging and troubleshooting Liquid, React, and Supabase database issues.</li>
-        <li><b>Result:</b> Successfully reduced recurring technical bugs by 15% in previous contract roles.</li>
+        <li><b>Result:</b> Designed repeatable debugging workflows that reduced incident recurrence. contract roles.</li>
         <li><b>Interests:</b> Technical Support Leadership & Developer Support Engineering.</li>
       </ul>
     </td>
@@ -73,14 +74,15 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   📊 GitHub Stats:
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Timo1304&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timo1304&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" alt="languages graph" />
-  <br />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timo1304&theme=dark&hide_border=true&layout=compact&cache_seconds=1800"
+    height="170"
+    alt="Top languages" />
+</div> -->
+
